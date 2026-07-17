@@ -13,7 +13,7 @@ The purpose of this lab is to develop skills used in Security Operations Center 
 
 ---
 
-# 🏗️ Lab Environment
+# Lab Environment
 
 ## Tools Used
 
@@ -23,7 +23,7 @@ The purpose of this lab is to develop skills used in Security Operations Center 
 
 ---
 
-# 🔍 Analysis Skills Practiced
+# Analysis Skills Practiced
 
 ## Packet Capture Analysis
 
@@ -60,7 +60,7 @@ Used Wireshark to identify:
 
 ---
 
-# 🧪 Lab Exercises
+# Lab Exercises
 
 ## DNS Investigation
 
@@ -91,7 +91,7 @@ Investigated:
 
 ---
 
-# 🔐 Security Concepts
+# Security Concepts
 
 Skills demonstrated:
 
@@ -103,7 +103,7 @@ Skills demonstrated:
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 Future additions:
 
@@ -114,17 +114,7 @@ Future additions:
 
 ---
 
-# 🎯 Skills Demonstrated
-
-✅ Wireshark  
-✅ TCP/IP Analysis  
-✅ Network Troubleshooting  
-✅ Packet Inspection  
-✅ Security Monitoring Fundamentals  
-
----
-
-# 🚀 Future Improvements
+# Future Improvements
 
 - Analyze malware traffic samples
 - Add PCAP investigation reports
