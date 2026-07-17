@@ -105,43 +105,43 @@ Skills demonstrated:
 
 # Screenshots
 
-## 1. Packet Filtering
+## 1. Filtering Out Unwanted Packets
 
-(screenshots/Wireshark screenshot 1 Filtering out unwanted packets.png)
+![Filtering Out Unwanted Packets](screenshots/Wireshark%20screenshot%201%20Filtering%20out%20unwanted%20packets.png)
 
-Applied Wireshark display filters to isolate relevant network traffic and remove unrelated packets. This technique improves the efficiency of packet analysis by focusing on specific protocols or conversations during an investigation.
-
----
-
-## 2. Follow HTTP Stream
-
-![Follow HTTP Stream](screenshots/02-follow-http-stream.png)
-
-Used the **Follow HTTP Stream** feature to reconstruct an HTTP conversation between a client and server. This demonstrates how web requests and responses can be analyzed to better understand application-layer communications.
+Applied Wireshark display filters to isolate relevant network traffic and remove unrelated packets.
 
 ---
 
-## 3. HTTP Port 80 Analysis
+## 2. Following an HTTP Stream
 
-![HTTP Port 80](screenshots/03-http-port-80-analysis.png)
+![Follow HTTP Packet](screenshots/Wireshark%20screenshot%202%20follow%20HTTP%20Packet.png)
 
-Examined HTTP traffic on TCP port 80 to identify request and response behavior. This exercise reinforced how unencrypted web traffic can be inspected for troubleshooting and analysis purposes.
-
----
-
-## 4. Coloring Rules and TCP Flags
-
-![Coloring Rules](screenshots/04-coloring-rules-flags.png)
-
-Explored Wireshark's coloring rules and TCP flags to quickly identify packet types and connection states. Understanding these visual indicators helps analysts recognize normal traffic patterns and investigate potential network issues.
+Used **Follow HTTP Stream** to inspect the conversation between a client and server.
 
 ---
 
-## 5. ICMP Connectivity Test
+## 3. Exploring Port 80 Traffic
 
-![ICMP Ping](screenshots/05-icmp-ping-analysis.png)
+![Port 80 Analysis](screenshots/Wireshark%20screenshot%203%20Exploring%20port%2080%20encryption.png)
 
-Captured ICMP Echo Request and Echo Reply packets while performing a `ping` test to Google. This exercise demonstrated basic network connectivity testing and packet-level analysis of ICMP traffic.
+Examined HTTP traffic over TCP port 80 to understand request and response behavior.
+
+---
+
+## 4. Exploring Coloring Rules and TCP Flags
+
+![Coloring Rules](screenshots/Wireshark%204%20exploring%20coloring%20rules%20and%20flags.png)
+
+Explored Wireshark's coloring rules and TCP flags to quickly identify different packet types.
+
+---
+
+## 5. ICMP Google Ping
+
+![ICMP Ping](screenshots/Wireshark%205%20ICMP%20google%20ping.png)
+
+Captured ICMP Echo Requests and Echo Replies while testing connectivity using `ping`.
 
 ---
 
