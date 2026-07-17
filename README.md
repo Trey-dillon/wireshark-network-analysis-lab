@@ -107,7 +107,7 @@ Skills demonstrated:
 
 ## 1. Packet Filtering
 
-![Packet Filtering](screenshots/Wireshark screenshot 1 Filtering out unwanted packets.png)
+!(screenshots/Wireshark screenshot 1 Filtering out unwanted packets.png)
 
 Applied Wireshark display filters to isolate relevant network traffic and remove unrelated packets. This technique improves the efficiency of packet analysis by focusing on specific protocols or conversations during an investigation.
 
