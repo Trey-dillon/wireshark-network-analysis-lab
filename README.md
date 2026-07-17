@@ -139,7 +139,7 @@ Explored Wireshark's coloring rules and TCP flags to quickly identify different 
 
 ## 5. ICMP Google Ping
 
-![ICMP Ping](screenshots/Wireshark%205%20ICMP%20google%20ping.png)
+![ICMP Ping](screenshots/Wireshar%205%20ICMP%20google%20ping.png)
 
 Captured ICMP Echo Requests and Echo Replies while testing connectivity using `ping`.
 
